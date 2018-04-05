@@ -181,7 +181,8 @@ def practice_problem2b(sequence):
 
     for k in range(len(sequence)):
         word = sequence[k]
-        if word[0] !='':
+        if sequence[k] !='':
+
             x = word[0]
             sum = sum + x
     return sum
