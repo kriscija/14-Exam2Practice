@@ -194,7 +194,7 @@ class Box(object):
         # --------------------------------------------------------------
 
     def double(self):
-        append_string(self)
+        append
 
         """
         What comes in:

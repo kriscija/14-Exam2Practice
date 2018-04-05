@@ -177,10 +177,13 @@ def run_test_practice_problem2b():
 
 
 def practice_problem2b(sequence):
-    sum = []
+    sum = ''
+
     for k in range(len(sequence)):
         word = sequence[k]
-        sum = sum + word[0]
+        if word[0] !=0:
+            x = word[0]
+            sum = sum + x
     return sum
 
     """
