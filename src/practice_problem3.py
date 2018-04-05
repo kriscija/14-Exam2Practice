@@ -481,7 +481,7 @@ def practice_problem3d(sequence):
 
 
     ####################################################################
-    # TODO: 6. Just ABOVE this TODO, you should have implemented
+    # Done
     #     a solution for the   practice_problem3d   function.
     #     Here, put ANOTHER solution, as follows:
     #
