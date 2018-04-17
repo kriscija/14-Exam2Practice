@@ -21,7 +21,7 @@ Authors: David Mutchler, Dave Fisher, Valerie Galluzzi, Amanda Stouder,
 #
 #  IMPORTANT: For ALL the problems in this module,
 #    if you reach the time estimate and are NOT close to a solution,
-#    STOP working on that problem and ASK YOUR INSTRUCTOR FOR HELP
+#    STOP working on that problem and okokASK YOUR INSTRUCTOR FOR HELP
 #    on it, in class or via Piazza.
 ########################################################################
 
